@@ -20,7 +20,7 @@ Artificial-Intelligence-Lab/
 ├── 07_A_Star_Search/
 ├── 08_BestFirst_Search/
 │
-└── reports/
+└── Question.pdf
 ├── ProblemSet_A/   # FCNN vs CNN, Fashion dataset, MobileNet, Figure-1 & Figure-2 architectures, 2-stage training
 └── ProblemSet_B/   # Polynomial DNN (32→64→128), normalization, train/val/test split, accuracy & loss curves
 ```
